@@ -8,7 +8,6 @@ This tracker aims to show the numbers & trends of people affected, recovered and
 </p>
 
 
-
 ## 🛠️ Built with
 
 - [React](https://es.reactjs.org/) - Front-End JavaScript library
