@@ -19,14 +19,14 @@ This tracker aims to show the numbers & trends of people affected, recovered and
 
 To setup the app for development on your local machine, please follow the instructions below:
 
-1. Clone the repo to your machine
+1. -> Clone the repo to your machine
 
    ```bash
    git clone https://github.com/gabrielpasquantonio/Covid-19-Tracker.git
    cd covid-19-tracker
    ```
 
-2. Install packages
+2. -> Install packages
 
    If you use `npm`
 
@@ -42,7 +42,7 @@ To setup the app for development on your local machine, please follow the instru
    yarn
    ```
 
-3. Run the development server
+3. -> Run the development server
 
    If you use `npm`
 
@@ -58,7 +58,7 @@ To setup the app for development on your local machine, please follow the instru
    yarn start
    ```
 
-4. Visit <http://localhost:3000>
+4. -> Visit <http://localhost:3000>
 
 
 ## [Live Demo](https://covid-19-tracker-50f8d.web.app/).
